@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fossclub-lbsitw&label=Profile%20views&color=0e75b6&style=flat" alt="fossclub-lbsitw" /> </p>
 
-<h1>CURRENT EVENTS.....</h1>
+<img width="1280" height="1600" alt="image" src="https://github.com/user-attachments/assets/3ca1130b-83d7-4b84-81e8-7cb2fa37b039" />
 
-![WhatsApp Image 2025-01-19 at 11 14 08 PM (1)](https://github.com/user-attachments/assets/7398e547-2b93-47b1-8393-0888ffb2af7b)
 
 
 <h3 align="left">Connect with US:</h3>
