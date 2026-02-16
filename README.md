@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fossclub-lbsitw&label=Profile%20views&color=0e75b6&style=flat" alt="fossclub-lbsitw" /> </p>
 
-<img width="880" height="350" alt="image" src="https://github.com/user-attachments/assets/a9099e29-0d12-4565-a637-0718a7616796" />
+<img width="380" height="850" alt="image" src="https://github.com/user-attachments/assets/a9099e29-0d12-4565-a637-0718a7616796" />
 
 
 
