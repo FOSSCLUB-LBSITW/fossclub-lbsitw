@@ -1,15 +1,52 @@
-<h1 align="center">Hi 👋, LBTIANS</h1>
-<h3 align="center">This is the official git hub account of lbsitw</h3>
+<h1 align="center">🚀 Welcome to FOSS-CLUB LBSITW</h1>
+<h3 align="center">Official GitHub Organization of LBS Institute of Technology for Women</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fossclub-lbsitw&label=Profile%20views&color=0e75b6&style=flat" alt="fossclub-lbsitw" /> </p>
+<p align="center">
+  Empowering students through Open Source • Collaboration • Innovation
+</p>
 
-<img width="380" height="850" alt="image" src="https://github.com/user-attachments/assets/a9099e29-0d12-4565-a637-0718a7616796" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fossclub-lbsitw&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="fossclub-lbsitw" />
+</p>
 
+<p align="center">
+  <img width="400" src="https://github.com/user-attachments/assets/a9099e29-0d12-4565-a637-0718a7616796" alt="FOSS-CLUB Banner"/>
+</p>
 
+---
 
+## 🌍 About Us
 
-<h3 align="left">Connect with US:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/company/foss-club-lbsitw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/foss-club-lbsitw/" height="30" width="40" /></a>
+FOSS-CLUB LBSITW is a student-driven open source community dedicated to:
 
+- 🔓 Promoting Free & Open Source Software  
+- 💻 Conducting technical workshops & hackathons  
+- 🤝 Encouraging collaborative development  
+- 🚀 Building real-world project experience  
+
+We believe in **learning by building** and **growing by contributing**.
+
+---
+
+## 🔥 Our Initiatives
+
+- 🛠 Open Source Contribution Programs  
+- 🚀 Hackathons & Technical Events  
+- 📚 Git & GitHub Workshops  
+- 🌐 Inter-College Collaborations  
+
+---
+
+## 🤝 Connect With Us
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/foss-club-lbsitw/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Star our repositories • 🍴 Fork and contribute • 💬 Join the community
 </p>
